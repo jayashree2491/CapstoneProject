@@ -9,3 +9,6 @@ The MYSQL workbench was used to structure the database with the tables and corre
 E-R Diagram
 The screen shot below represents our ER diagram. Creation of a new ER diagram based on pre-existing ER diagram we were provided. The ERD was generated using erdplus.com. Several changes were made on the previous ERD such as adding new column to a table, creating new tables, removing and renaming of columns and such. ERD approved by our advisor.
 
+https://github.com/jayashree2491/CapstoneProject/issues/1#issue-745383359
+
+
