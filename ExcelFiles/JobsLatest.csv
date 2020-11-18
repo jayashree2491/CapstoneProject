@@ -1,0 +1,146 @@
+JobID,AlumniID,JobTitle,JobDescription,OrganizationName,EmploymentType,StartDate,EndDate
+1,1,PC Workstation Tech,,Gwinnett Medical Center,,7/1/2015,8/17/2020
+2,2,Data Analyst,,Abbott,Full-time,10/1/2016,12/31/2030
+3,2,Data Reporting Analyst,,AT&T,Full-time,5/1/2013,5/16/2020
+4,3,Testing Center Manager,,The University of Tennessee at Chattanooga,Full-time,6/1/2020,12/31/2030
+5,3,Testing Specialist,,Dalton State College,,7/1/2006, 2020-05-01
+6,4,Data Analyst,,ASHLIN Management Group,Full-time,2/1/2020,12/31/2030
+7,4,BI Analyst / Cloud Architect,,ELC Consulting,Full-time,4/1/2018, 2020-02-01
+8,4,Labor Analyst,,Bedrock Retail,,5/1/2016, 2018-04-01
+9,4,Field Supervisor,,"Atlas Technology Solutions, LLC",,2/1/2015, 2016-04-01
+10,4,Network Admin,,M2 Connections - Project BEAR,,10/1/2013, 2015-01-01
+11,4,Field Technician,,"Atlas Technology Solutions, LLC",,7/1/2012, 2013-10-01
+12,5,Customer Care Representative,,LiveVox,,3/1/2020,12/31/2030
+13,5,Tier 1 Customer Service Support,,LiveVox,,7/1/2018, 2020-03-01
+14,5,Fiber Panel Production Lead,,Amerifiber Incorporated,,5/1/2015, 2018-07-01
+15,5,District Executive,,Boy Scouts of America,,7/1/2014, 2015-05-01
+16,5,Production Associate,,Amerifiber Incorporated,,10/1/2013, 2014-07-01
+17,6,RPA,,Wellstar Health System,Internship,6/1/2020,12/31/2030
+18,6,SQL Server DBA,,Wellstar Health System,Internship,6/1/2019,12/31/2030
+19,6,Software Download and Quality Assurance Specialist,,Ingenico Group,,3/1/2018, 2019-06-01
+20,6,Salesforce Developer,,Docmation,Internship,5/1/2017, 2017-07-01
+21,6,"Account Receivable, Receiving and Shipping head",,Your Dekalb Farmers Market,,2/1/2013,12/31/2030
+22,7,Operations Analyst,,Tactic Edge Solutions,,1/1/2019,5/1/2020
+23,7,Data Analyst,,View Point Health,Internship,8/1/2018,5/1/2020
+24,7,Office Manager,,Compass Consulting,,7/1/2017,1/1/2019
+25,7,Management Assistant,,Enterprise Rent-A-Car,,5/1/2015,3/1/2017
+26,8,Linux Engineer,,Georgia Tech Research Institute,,2/1/2016,12/31/2030
+27,8,Linux Systems Administrator,,SEDC,,7/1/2015,2/1/2016
+28,8,Helpdesk Technician,,General Dynamics Information Technology,,10/1/2012,7/1/2015
+29,8,Helpdesk Technician,,"TTC, Inc.",,11/1/2011,10/1/2012
+30,9,Manager of Information Tech and Faculty Support,,Georgia Southwestern State University,Full-time,2/1/2012,12/31/2030
+31,9,IIT Support,,Georgia Southwestern State University,,9/1/2010,2/1/2012
+32,9,Information Technology Support,,Total Health Center,,11/1/2009,9/1/2010
+33,10,Software Developer In Test,,Global Payments Inc.,Contract,8/1/2020,12/31/2030
+34,10,Software Developer In Test,,Blue Crane Technology,,10/1/2017,12/1/2019
+35,10,Performance Test Engineer,,Cox Automotive,,10/1/2017,12/1/2019
+36,11,Associate IT Operations Analyst,,Voya Investment Management,Full-time,12/1/2019,12/31/2030
+37,11,Security Compliance,,Voya Financial,Internship,5/1/2019,12/1/2019
+38,11,Account Service Coordinator,,Kids II,,11/1/2017,5/1/2019
+39,11,Pilot Scheduler,,Delta Air Lines,,5/1/2017,11/1/2017
+40,11,Marketing,,Sherwin Williams,Internship,6/1/2013,8/1/2013
+41,12,Escalation Engineer,,"Integration Technologies, Inc.",Full-time,7/1/2020,12/31/2030
+42,12,TitleSystem Administrator,,"Integration Technologies, Inc.",Full-time,7/1/2019,7/1/2020
+43,12,Senior Umpire,,Baseball Umpires,,1/1/2008,6/1/2019
+44,12,Computer Technician,,Dr. Fritz MD,Part-time,8/1/2006,5/1/2016
+45,13,IMS Mainframe Database Administrator,,TSYS,,7/1/2018,12/31/2030
+46,13,Business Data Support Analyst,,Phoebe Putney Health System,,1/1/2018,7/1/2018
+47,13,Information Systems,,Phoebe Putney Health System,Internship,6/1/2017,1/1/2018
+48,13,Career Ambassador,,Albany State University,,2/1/2017,5/1/2017
+49,13,Student Worker,,Chick-fil-A-Franchise,,8/1/2015,12/1/2016
+50,13,Office Automation Analyst,,HUNTER Technical - htrjobs.com,Internship,6/1/2014,8/1/2014
+51,13,Software Development Analyst,,Fuzebox,Internship,6/1/2012,10/1/2012
+52,14,Senior Solutions Specialist,,PwC Hong Kong and Mainland China,,6/1/2012,7/1/2018
+53,14,Business Analyst,,Zhongruan Hengxin Science and Technology Lt.,,4/1/2011,5/1/2012
+54,15,Solutions Engineer,,Axis Group,Full-time,5/1/2020,12/31/2030
+55,15,Associate Solutions Engineer,,Axis Group,Full-time,4/1/2019,5/1/2020
+56,15,Jr System Administrator,,Ganek PC,,11/1/2018,4/1/2019
+57,15,Center Sales and Reservations,,U-Haul,,7/1/2015,10/1/2018
+58,16,HR Manager & Client Services,,M&M Business Consulting Inc.,,2/1/2018,2/1/2020
+59,16,Case Manager,,Gokare Law Firm,,8/1/2013,1/1/2018
+60,16,Legal Assistant,,Gokare Law Firm,,8/1/2011,8/1/2013
+61,16,AutoCAD Instructor,,Lanier Technical College,,5/1/2007,8/1/2007
+62,16,AutoCAD Technician,,Kapur & Associates,,4/1/1999,2/1/2000
+63,16,"Building Designer, Architect & Project Manager",,Self Employed,,5/1/1993,5/1/1996
+64,17,Data Analyst,,European Investment Management Services,Full-time,7/1/2019,12/31/2030
+65,17,Senior Accountant,,"LUXE ARTIST MANAGEMENT, INC.",Full-time,8/1/2012,6/1/2019
+66,17,Billing/Accounting Representative,,"Lincare Holdings, Inc",,11/1/2009,2/1/2012
+67,18,Graduate Research Assistant,,Kennesaw State University,,1/1/2019,5/1/2020
+68,18,Volunteer,,Kennesaw State University,,8/1/2018,1/1/2019
+69,18,Computer Science Teaching Assistant,,Kennesaw State University,,8/1/2018,12/1/2018
+70,18,Summer,,Stibo Systems,Internship,5/1/2019,8/1/2019
+71,18,Business Analyst,,"iPatientCare, Inc.",Full-time,2/1/2018,7/1/2018
+72,18,Business Analyst,,Zealous System,Full-time,4/1/2016,2/1/2018
+73,18,Web Analyst,,GateSoft Technologies Pvt. Ltd,Internship,10/1/2015,3/1/2016
+74,19,Cloud and Systems Analyst,,Centers for Disease Control and Prevention,,1/1/2020,12/31/2030
+75,19,Sr. IT Infrastructure Engineer,,Office of Insurance and Safety Fire Commissioner - State of GA,,12/1/2019,3/1/2020
+76,19,Messaging Engineer,,Equifax,,3/1/2018,9/1/2019
+77,19,Network and Systems Administrator,,Treatment Management Company,Contract,1/1/2018,3/1/2018
+78,19,IT Infrastructure Engineer,,Skyland Trail,,1/1/2016,11/1/2017
+79,19,Network & System Support Specialist,,Georgia Highlands College,,1/1/2015,1/1/2016
+80,19,IT Infrastructure Engineer,,Al Darmaky for Contracting & Agricultural Materials,,1/1/2014,1/1/2015
+81,19,IT Administrator,,IT InSYNC,,1/1/2007,1/1/2013
+82,19,Desktop / Network Support,,Independent contractor,,1/1/2002,1/1/2007
+83,20,Graduate Research Assistant,,Kennesaw State University,,4/1/2019,12/31/2030
+84,20,Technology Analyst,,Infosys,,8/1/2010,10/1/2016
+85,21,Information Assurance Specialist,,U.S. Department of State,Full-time,4/1/2018,12/31/2030
+86,21,Cybersecurity Operation Center,,InComm,Internship,2/1/2018,4/1/2018
+87,21,Information Security Assistant (Security Steward),,Centers for Disease Control and Prevention,,10/1/2016,12/1/2017
+88,21,Shipping Manager,,Urban Land Cruisers,,2/1/2016,7/1/2016
+89,21,Teacher,,Joy English School,,7/1/2015,2/1/2016
+90,21,Mechanic/Shipper,,Urban Land Cruisers,,5/1/2011,7/1/2015
+91,22,Technical Support Analyst,,Cobb County Government,Part-time,5/1/2019,12/31/2030
+92,22,Facility Manager,,Kennesaw State University - Department of Sports and Recreation,Part-time,5/1/2018, 2020-05-01
+93,22,Member Services,,Kennesaw State University - Department of Sports and Recreation,Part-time,5/1/2017,5/1/2018
+94,22,Facility Attendant,,Kennesaw State University - Department of Sports and Recreation,Part-time,8/1/2015,5/1/2017
+95,22,IT Helpdesk Analyst,,Chick-fil-A Corporate,Full-time,7/1/2018,4/1/2019
+96,22,Cashier,,DICK'S Sporting Goods,Part-time,5/1/2017,11/1/2017
+97,22,Sales Associate,,Foot Locker,Part-time,5/1/2015,8/1/2015
+98,25,PC Support Specialist,,Georgia State University,Full-time,10/1/2016,12/31/2030
+99,25,IT Support Specialist,,Georgia State University Perimeter College,,7/1/2013,9/1/2016
+100,27,Security Analyst,,C Edge,Contract,7/1/2020,12/31/2030
+101,27,Claims Specialist,,"AmTrust Financial Services, Inc.",,12/1/2016,12/31/2030
+102,27,Customer Service Representative,,The Coca-Cola Company,,12/1/2014,12/1/2016
+103,28,Help Desk Technician,,Hargray Communications,,9/1/2019,12/31/2030
+104,28,Information Analyst,,Georgia Southern University,,11/1/2014,9/1/2019
+105,28,I.S. System Support Coordinator,,East Georgia Regional Medical Center,,2/1/2008,10/1/2014
+106,28,Network Administrator,,East Georgia Regional Medical Center,,9/1/2004,2/1/2008
+107,28,User Support,,East Georgia Regional Medical Center,,1/1/1997,9/1/2004
+108,29,Graduate Student,,Kennesaw State University,,1/1/2017,12/31/2030
+109,29,Instructor/Writer,,United State Army Reserve,,8/1/2016,1/1/2017
+110,29,US ARMY,,Deparment of the Army,,8/1/2001,8/1/2016
+111,30,Web Development,,Sauls International,Internship,8/1/2020,12/31/2030
+112,32,Web Developer/Web Implementation,,Celerant Technology,,3/1/2019,12/31/2030
+113,32,Software Support Engineer,,Celerant Technology,,9/1/2017,3/1/2019
+114,32,Teaching Assistant/Grader,,Kennesaw State University,,1/1/2017,7/1/2017
+115,32,Server,,The Original Pancake House,,7/1/2015,12/1/2015
+116,32,Hostess/Server,,Cracker Barrel,,5/1/2014,6/1/2015
+117,33,Customer Service Representative,,Citizens Trust Bank,,9/1/2015,12/31/2030
+118,33,Mail Order Operator/ Customer Service Rep.,,Peachtree Woodworking Supply,,1/1/2013,12/31/2030
+119,34,Senior Consultant,,Deloitte,,1/1/2019,12/31/2030
+120,34,Business Analyst / Software Developer,,General Motors,,6/1/2014,12/1/2018
+121,34,Data Warehousing Assistant,,Fulton County Schools IT,,5/1/2013,7/1/2013
+122,35,Configuration Analyst,,Ventiv Technology,,5/1/2012,12/31/2030
+123,36,Data Analyst,,FortifyData,,8/1/2019,12/31/2030
+124,36,Graduate Research Assistant,,Kennesaw State University,,8/1/2018,12/31/2030
+125,36,Admissions Specialist,,Kennesaw State University,,1/1/2018,8/1/2018
+126,36,Data Curator,,United Way of Greater Atlanta,,1/1/2017,12/1/2017
+127,36,AP/AR Accountant,,Pratt Industries,,1/1/2017,10/1/2017
+128,36,University Information Technology Systems,,Kennesaw State University,,8/1/2015,12/1/2016
+129,37,"Information Security Engineer - Governance, Risk, & Compliance",,"Aarons, Inc",Full-time,8/1/2020,12/31/2030
+130,37,Operational Governance Contractor,,Global Payments,Contract,6/1/2019,12/1/2019
+131,37,Project Manager,,PEMCO Limited,,2/1/2016,2/1/2019
+132,37,Business Analyst,,PEMCO Limited,,1/1/2014,2/1/2016
+133,37,Team Lead,,PEMCO Limited,,2/1/2008,1/1/2014
+134,39,Data Science,,Novelis,Internship,9/1/2020,12/31/2030
+135,39,Data Science,,MagMutual Healthcare Management and Informatics Research Lab,Internship,1/1/2020,5/1/2020
+136,39,Machine Learning Developer - Graduate Research Assistant,,Kennesaw State University,,8/1/2018,6/1/2020
+137,40,Technology Development Program - Engineer I,,AT&T,Full-time,7/1/2020,12/31/2030
+138,40,Substitute Teacher,,Gwinnett County Public Schools,,10/1/2010,6/1/2013
+139,40,Special Education Volunteer,,Gwinnett County Public School,,11/1/2009,12/1/2011
+140,40,Board Member And Arts and Craft Coordinator,,Pittsburgh Toy Lending Library,,9/1/2004,5/1/2006
+141,40,Software Developer,,Norfolk Southern Corporation,,1/1/2001,11/1/2002
+142,42,Graduate Research Assistant,,Kennesaw State University,,11/1/2018,12/31/2030
+143,42,Global Product & Technology Summer,,ADP,Internship,5/1/2019,8/1/2019
+144,43,Information Technology Administrator,,Assured Comfort,Part-time,3/1/2016,12/31/2030
+145,43,Shift Manager,,Stevi Bs Pizza Buffet. (ACG Pizza Partners),,2/1/2012,3/1/2017
