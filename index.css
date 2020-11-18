@@ -1,0 +1,195 @@
+<html>
+<head>
+<style>
+
+
+
+
+#header {
+	height: auto;
+	padding: 12px 0px;
+	padding: 0.75rem 0rem;
+	padding-top: 15.2px;
+	padding-top: 0.95rem;
+	background: black;
+	width: 100%;
+	position: relative;
+}
+
+
+
+ul {
+	list-style-type: none;
+ margin: 0;
+ padding:0;
+	
+	overflow: hidden;
+	background-color: #febc11;
+	
+}
+
+li {
+float: left;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 70px;
+	text-decoration: none;
+}
+
+li a:hover:not(.active) {
+	background-color: gold;
+
+}
+
+.active {
+	background-color: gold;
+}
+
+h1 {
+	font-size: 4rem;
+	width: 99%;
+	position: absolute;
+	background: rgba(0, 0, 0, 0.5);
+	color: white;
+	margin: 0;
+	bottom: 30%;
+	margin-block-start: 0.67em;
+	margin-block-end: 0.67em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+}
+
+#main {
+	margin: 3%;
+	text-align: center;
+	width: 90%;
+	position: absolute;
+	left: 6.5%;
+	top: 70%;
+}
+
+
+
+table {
+	 font-family: arial, sans-serif;
+	 border-collapse: collapse;
+	 width: 92%;
+}
+th {
+	background-color: black;
+	padding: 5px;
+	border: 1px solid #dddddd;
+	background-color: #febc11;
+}
+td {
+	
+	border-collapse: collapse;
+	border: 1px solid #dddddd;
+	text-align: left;
+    padding: 3px;
+	font-size: 14px ; 
+}
+
+
+tr:nth-child(even) {
+
+  background-color: #dddddd;
+
+}
+
+tr:hover {
+	background-color: #febc11;
+}
+
+
+.search {
+	margin: 3%;
+	text-align: center;
+	width: 90%;
+	  position: relative;
+	
+}
+
+.hide {
+	display : none;
+}
+label {
+	font-size : 22px;
+	text-align : center;
+}
+.alert-success {
+color : green;
+text-align : center;
+font-size : 18px;
+font-weight : bold;
+}
+.alert-danger {
+color : red;
+text-align : center;
+font-size : 18px;
+font-weight : bold;
+}
+.radiodiv{
+	text-align  : center;
+	font-size :17px;
+}
+#alumniDiv, #jobDiv, #educationDiv {
+	text-align  : center;
+	font-size :17px;
+}
+h2{
+	text-align : center;
+}
+
+	
+
+
+
+
+
+
+
+</style>
+</head>
+<body>
+
+<!---header--->
+
+ <div id="header" role="logo"><a href ="https://ccse.kennesaw.edu/it/programs/msit.php">
+	<img src="/img/logo.png" alt width="20%"></a>
+	
+</div>
+
+	
+<!---- Menu -----> 
+
+<div class= "menu">
+<ul>
+<li><a class="active" href="index.php">Home</a></li>
+
+<li><a href="About.php">About</a></li>
+<li><a href="DisplayData.php">Import</a></li>
+<li><a href="dbbackup.php">Export</a></li>
+<li><a href="restore.php">Restore</a></li>
+</ul>
+ <div>
+ 
+ <!----- picturebanner --->
+
+<div id="picbanner" class="static">
+<h1>Alumni Information System</h1>
+<img src="/img/banner.jpg" alt width=100% height=55% >
+
+
+
+	 
+</div>
+</body>
+ </html>
