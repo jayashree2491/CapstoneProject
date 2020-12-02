@@ -18,6 +18,7 @@ The default configuration file and necessary php and sql artifactories are insta
 With more hours of effort, team work, multiple resource links and code alteration the AIS system was successfully migrated to Linux Server https://10.96.60.212/index.php
 
 Tools & Software
+
 Development --
   VMware Horizon Client - KSU Virtual Machine(AlumniProject)
   XAMPP Control Panel
