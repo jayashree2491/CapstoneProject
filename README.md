@@ -1,5 +1,6 @@
 # CapstoneProject - ALUMNI INFORMATION SYSTEM - https://10.96.60.212
 IT7993 Kennesaw State University - Capstone Project
+Detailed Explanation and Demo of our project  - https://youtu.be/PVFpwOK57oA
 
 Access the application in KSU Migrated Linux Server - It can be accessed only using the KSU connnected network systems
 
